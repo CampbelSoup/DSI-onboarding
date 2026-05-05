@@ -12,3 +12,5 @@ Welcome to the DSI Microcredentials! This repository is designed to provide all 
 * [Environment Setup](https://github.com/UofT-DSI/onboarding/tree/main/environment_setup)
 * [Participant Guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/participant_guidelines.md)
 * [Submission Guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md)
+
+SMALL CHNAGE
